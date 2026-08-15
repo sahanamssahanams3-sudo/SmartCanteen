@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Canteen Administrator",
+        "email": "admin@canteen.com",
+        "password": "$2y$10$8AqvyskDHZNtLaQgAmzJ6.URttuXgF452zXU9fJRLdF3xgN12YHbG",
+        "role": "admin",
+        "status": "active"
+    },
+    {
+        "id": 2,
+        "name": "Canteen Staff",
+        "email": "staff@canteen.com",
+        "password": "$2y$10$/b2CPja75YmIazQcrhnJE.VBWFgOO.Su.9ggSPHG6jO7KMnEY2LC2",
+        "role": "staff",
+        "status": "active"
+    },
+    {
+        "id": 3,
+        "name": "Demo Customer",
+        "email": "user@canteen.com",
+        "password": "$2y$12$eQ2bW.OktlwiK4Vjz/5hT.XwVp/s6au2LAOC/4PKhdJumxbB3jMqi",
+        "role": "customer",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "name": "abc",
+        "email": "abc@gmail.com",
+        "password": "$2y$10$m7F4UG67IimNUz.f3T4Q9eui5rbP.tqnDTsLp8LC/tKGKIut0DKjW",
+        "role": "customer",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "name": "sushmitha",
+        "email": "sushu@gmail.com",
+        "password": "$2y$10$cFIV.9G6L6GkL5/Zh3x5de4RgAP.3zYH8m2us1x2kNu10MOjmB46O",
+        "role": "customer",
+        "status": "active"
+    },
+    {
+        "id": 6,
+        "name": "manya",
+        "email": "manya@gmail.com",
+        "password": "$2y$10$7NucI11V7KirG0NcJYD5VuQJ7D0SQsegR3fuU/0ZAr07aIuDiI6fK",
+        "role": "customer",
+        "status": "active"
+    },
+    {
+        "id": 7,
+        "name": "Megha",
+        "email": "megha@gmail.com",
+        "password": "$2y$10$rkHcbazB3BlWV75BSlTWPOM/t5Yl2ulh0.ghOon1bxaG.JAmMts5G",
+        "role": "customer",
+        "status": "active"
+    }
+]

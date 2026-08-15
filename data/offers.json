@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Lunch Combo",
+        "description": "Burger + Fries + Drink",
+        "price": 120,
+        "old_price": 150,
+        "discount": 20,
+        "active": true
+    },
+    {
+        "id": 2,
+        "title": "Student Special",
+        "description": "10% discount on selected meals",
+        "price": 0,
+        "old_price": 0,
+        "discount": 10,
+        "active": true
+    },
+    {
+        "id": 3,
+        "title": "Daily Special",
+        "description": "Special food every day",
+        "price": 70,
+        "old_price": 90,
+        "discount": 22,
+        "active": true
+    },
+    {
+        "id": 4,
+        "title": "Biryani Combo",
+        "description": "Veg Biriyani+Mashroom Curry",
+        "price": 300,
+        "old_price": 350,
+        "discount": 10,
+        "active": true
+    }
+]

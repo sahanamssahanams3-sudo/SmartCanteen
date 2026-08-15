@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Veg Burger",
+        "category": "Snacks",
+        "price": 50,
+        "image": "images/veg burger.webp",
+        "description": "Fresh vegetable burger with cheese",
+        "rating": 4.5,
+        "available": true
+    },
+    {
+        "id": 2,
+        "name": "Cheese Pizza",
+        "category": "Fast Food",
+        "price": 80,
+        "image": "images/cheese pizza.jpeg",
+        "description": "Hot pizza loaded with cheese",
+        "rating": 4.8,
+        "available": true
+    },
+    {
+        "id": 3,
+        "name": "Veg Biryani",
+        "category": "Meals",
+        "price": 80,
+        "image": "images/veg biriyani.jpg",
+        "description": "Delicious vegetable biryani with raita",
+        "rating": 4.7,
+        "available": true
+    },
+    {
+        "id": 4,
+        "name": "Cold Drink",
+        "category": "Drinks",
+        "price": 30,
+        "image": "images/cold drink.webp",
+        "description": "Refreshing chilled drink",
+        "rating": 4.2,
+        "available": true
+    },
+    {
+        "id": 5,
+        "name": "Masala Dosa",
+        "category": "Meals",
+        "price": 60,
+        "image": "images/masala dose.webp",
+        "description": "Crispy dosa served with chutney and sambar",
+        "rating": 4.6,
+        "available": true
+    },
+    {
+        "id": 6,
+        "name": "French Fries",
+        "category": "Snacks",
+        "price": 40,
+        "image": "images/french fries.webp",
+        "description": "Crispy golden French fries",
+        "rating": 4.4,
+        "available": true
+    },
+    {
+        "id": 7,
+        "name": "Badam Milk",
+        "category": "Drinks",
+        "price": 60,
+        "image": "images/Badam-Milk-1.jpg",
+        "description": "Available",
+        "rating": 4.6,
+        "available": true
+    },
+    {
+        "id": 8,
+        "name": "Paani Puri",
+        "category": "Fast Food",
+        "price": 50,
+        "image": "images/pani puri.jpg",
+        "description": "Available",
+        "rating": 4.4,
+        "available": true
+    },
+    {
+        "id": 9,
+        "name": "Mashroom manchuri",
+        "category": "Fast Food",
+        "price": 100,
+        "image": "images/mashroom manchuri.jpg",
+        "description": "Available",
+        "rating": 4.5,
+        "available": true
+    },
+    {
+        "id": 10,
+        "name": "Ice Cream",
+        "category": "Cold Item",
+        "price": 60,
+        "image": "images/ice cream.webp",
+        "description": "Available",
+        "rating": 4.5,
+        "available": true
+    },
+    {
+        "id": 11,
+        "name": "iced coffee",
+        "category": "Drinks",
+        "price": 50,
+        "image": "images/iced coffee.jpg",
+        "description": "Available",
+        "rating": 4.8,
+        "available": true
+    },
+    {
+        "id": 12,
+        "name": "Parota",
+        "category": "Meals",
+        "price": 100,
+        "image": "images/parota.jpg",
+        "description": "Available",
+        "rating": 4.8,
+        "available": true
+    },
+    {
+        "id": 13,
+        "name": "Mashroom Curry",
+        "category": "Meals",
+        "price": 150,
+        "image": "images/masrhoom curry.webp",
+        "description": "Available",
+        "rating": 4.7,
+        "available": true
+    },
+    {
+        "id": 14,
+        "name": "Samosa",
+        "category": "Snacks",
+        "price": 20,
+        "image": "images/Samosa.jpg",
+        "description": "Available",
+        "rating": 4.5,
+        "available": true
+    }
+]
