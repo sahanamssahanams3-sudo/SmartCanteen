@@ -198,7 +198,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             strtolower($user['status']) !== 'active'
         ) {
 
-            $error = 'Your account is inactive. Please contact the administrator.';
+            $error = 'Your account is in-active. Please contact the administrator.';
 
             break;
         }
